@@ -1,2 +1,2 @@
-wuile True:
+while True:
     print("r")
